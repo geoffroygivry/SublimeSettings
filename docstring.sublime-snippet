@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+""" Description:
+    This is the doc for this function.
+
+    Example of usage:
+
+    function(args, args)
+"""
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>doc</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
